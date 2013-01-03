@@ -1,1 +1,1 @@
-This is a Read Me file.
+Simple RabbitMQ sever/client program written in python.
